@@ -3,14 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/background.xml" value="0.2355" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/box.xml" value="0.2355" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/boxforprod.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/button.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/container_components.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/container_user.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/edit_text.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/ic_email.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/ic_eye.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/ic_user.xml" value="0.2355" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_about_us.xml" value="0.22" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_featured_products.xml" value="0.365625" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_form_cadastro.xml" value="0.365625" />
-        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_form_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_our_products.xml" value="0.33" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_product.xml" value="0.37130801687763715" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_tela_principal.xml" value="0.1" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/featured_products.xml" value="0.25" />
         <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/form_cadastro.xml" value="0.365625" />
       </map>

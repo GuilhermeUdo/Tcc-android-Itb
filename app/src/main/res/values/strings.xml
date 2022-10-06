@@ -7,4 +7,7 @@
     <string name="dark_gray">Dark Gray</string>
     <string name="aysoti_sohillsfort_slim_fit">Aysoti Sohillsfort Slim Fit</string>
     <string name="produtos">Produtos</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Clique aqui para criar uma conta</string>
+    <string name="title_cadastro">Cadastre-se</string>
 </resources>

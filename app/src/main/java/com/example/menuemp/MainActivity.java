@@ -33,4 +33,14 @@ public class MainActivity extends AppCompatActivity {
         Intent intent  = new Intent(this,ProductActivity.class);
         startActivity(intent);
     }
+
+    public void deslogar(View view){
+        Intent intent = new Intent(this, FormLogin.class);
+        startActivity(intent);
+
+    }
+    public void perfil(View view){
+        Intent intent = new Intent(this, TelaPrincipal.class);
+        startActivity(intent);
+    }
 }
