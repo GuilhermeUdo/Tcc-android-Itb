@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        getSupportActionBar().hide();
 
     }
     public void button_about_us(View view) {
@@ -23,12 +24,13 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this,AboutUs.class);
         startActivity(intent);
     }
-
     public void button_our_products(View view){
 
         Intent intent = new Intent(this,OurProducts.class);
         startActivity(intent);
-
-
+    }
+    public void products(View view){
+        Intent intent  = new Intent(this,ProductActivity.class);
+        startActivity(intent);
     }
 }

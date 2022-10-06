@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_about_us.xml" value="0.33" />
-        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_our_products.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/box.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/drawable/boxforprod.xml" value="0.2355" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_about_us.xml" value="0.22" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_featured_products.xml" value="0.365625" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_form_cadastro.xml" value="0.365625" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_our_products.xml" value="0.33" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/activity_product.xml" value="0.37130801687763715" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/featured_products.xml" value="0.25" />
+        <entry key="..\:/Users/guilh/AndroidStudioProjects/menuemp/app/src/main/res/layout/form_cadastro.xml" value="0.365625" />
       </map>
     </option>
   </component>
