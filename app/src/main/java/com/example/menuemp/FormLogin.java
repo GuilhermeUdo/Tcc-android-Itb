@@ -35,5 +35,9 @@ public class FormLogin extends AppCompatActivity {
     private void IniciarComponentes(){
         text_tela_cadastro = findViewById(R.id.text_tela_cadastro);
     }
+    public void entrar(View view) {
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
+    }
 
 }

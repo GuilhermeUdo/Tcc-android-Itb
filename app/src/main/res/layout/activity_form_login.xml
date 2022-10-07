@@ -54,6 +54,7 @@
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/bt_entrar"
             style="@style/Button"
+            android:onClick="entrar"
             android:text="@string/entrar"
             android:textColor="@color/white"
             android:textSize="18sp"
