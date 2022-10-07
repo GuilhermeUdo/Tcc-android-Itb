@@ -53,7 +53,6 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/bt_entrar"
-
             style="@style/Button"
             android:text="@string/entrar"
             android:textColor="@color/white"
